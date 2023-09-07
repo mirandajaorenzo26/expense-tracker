@@ -1,0 +1,8 @@
+.summary{
+  @apply flex
+}
+
+.add-transaction{
+  @apply flex gap-5 shrink flex-wrap border p-5 rounded-lg border-2
+}
+
